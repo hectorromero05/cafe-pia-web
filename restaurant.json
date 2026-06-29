@@ -1,0 +1,72 @@
+{
+  "nombre": "Café Pia",
+  "telefono": "+523336509447",
+  "whatsapp": "+523336509447",
+  "google_maps": "https://www.google.com/maps/place/Caf%C3%A9+Pia/@20.6901171,-103.4177058,16z/data=!4m6!3m5!1s0x8428af6df4f4a747:0xd370ee6055b258bb!8m2!3d20.6895573!4d-103.4146535!16s%2Fg%2F11q25sb_1g?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+  "direccion": "Av Naciones Unidas 6780-Loc 4, Loma Real, 45129 Zapopan, Jal.",
+  "horario": "Horario de atención",
+  "rating": "4.4",
+  "resenas": "0",
+  "nicho": "Google Maps URL",
+  "categoria": "Restaurante francés",
+  "sitio_web": "https://www.opentable.com.mx/restaurant/profile/1211548",
+  "tiene_web": "sí",
+  "colores_sugeridos": [
+    "negro",
+    "blanco",
+    "gris",
+    "color acento adaptable"
+  ],
+  "estilo_sugerido": "moderno, limpio, adaptable a celular",
+  "palabras_clave_seo": [
+    "Café Pia",
+    "Google Maps URL",
+    "Google Maps URL cerca de mí",
+    "restaurante en Guadalajara",
+    "reservaciones por WhatsApp"
+  ],
+  "meta_description": "Conoce Café Pia, Google Maps URL con ubicación, menú, reseñas y reservaciones por WhatsApp.",
+  "servicios": [
+    "Reservaciones",
+    "Pedidos por WhatsApp",
+    "Ubicación en Google Maps",
+    "Menú destacado"
+  ],
+  "botones": [
+    {
+      "texto": "Reservar por WhatsApp",
+      "tipo": "whatsapp",
+      "url": "https://wa.me/523336509447"
+    },
+    {
+      "texto": "Cómo llegar",
+      "tipo": "maps",
+      "url": "https://www.google.com/maps/place/Caf%C3%A9+Pia/@20.6901171,-103.4177058,16z/data=!4m6!3m5!1s0x8428af6df4f4a747:0xd370ee6055b258bb!8m2!3d20.6895573!4d-103.4146535!16s%2Fg%2F11q25sb_1g?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+    }
+  ],
+  "redes_sociales": {
+    "instagram": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "imagenes": {
+    "hero": "/hero.jpg",
+    "logo": "/logo.png",
+    "galeria": [
+      "/galeria1.jpg",
+      "/galeria2.jpg",
+      "/galeria3.jpg"
+    ]
+  },
+  "secciones_sugeridas": [
+    "Hero",
+    "Historia",
+    "Especialidades",
+    "Galería",
+    "Menú",
+    "Mapa",
+    "Reseñas",
+    "CTA final",
+    "Footer"
+  ]
+}
